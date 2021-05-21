@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/vwdfriends/static/css/main.2562b265.chunk.css",
+    "main.js": "/vwdfriends/static/js/main.6404211b.chunk.js",
+    "main.js.map": "/vwdfriends/static/js/main.6404211b.chunk.js.map",
+    "runtime-main.js": "/vwdfriends/static/js/runtime-main.8b42ce75.js",
+    "runtime-main.js.map": "/vwdfriends/static/js/runtime-main.8b42ce75.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/vwdfriends/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.ed47a92a.chunk.js": "/vwdfriends/static/js/2.ed47a92a.chunk.js",
+    "static/js/2.ed47a92a.chunk.js.map": "/vwdfriends/static/js/2.ed47a92a.chunk.js.map",
+    "static/js/3.91a0c869.chunk.js": "/vwdfriends/static/js/3.91a0c869.chunk.js",
+    "static/js/3.91a0c869.chunk.js.map": "/vwdfriends/static/js/3.91a0c869.chunk.js.map",
+    "index.html": "/vwdfriends/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/vwdfriends/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.2562b265.chunk.css.map": "/vwdfriends/static/css/main.2562b265.chunk.css.map",
+    "static/js/2.ed47a92a.chunk.js.LICENSE.txt": "/vwdfriends/static/js/2.ed47a92a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/vwdfriends/static/media/Afterhours.30dd7bc1.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b42ce75.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.ed47a92a.chunk.js",
+    "static/css/main.2562b265.chunk.css",
+    "static/js/main.6404211b.chunk.js"
+  ]
+}
